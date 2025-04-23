@@ -1,0 +1,53 @@
+{
+    "home": {
+      "title": "Disability Support Platform",
+      "subtitle": "Your comprehensive resource for accessibility and support",
+      "servicesTitle": "Our Services",
+      "howWeHelpTitle": "How We Help"
+    },
+    "buttons": {
+      "contact": "Contact Us",
+      "join": "Join Community"
+    },
+    "services": {
+      "education": {
+        "title": "Education & Training",
+        "desc": "Access inclusive education programs, skill-building workshops, and career training."
+      },
+      "healthcare": {
+        "title": "Healthcare Support",
+        "desc": "Access specialized doctors, hospitals, and health resources."
+      },
+      "community": {
+        "title": "Community",
+        "desc": "Join support groups, local events, and online forums for peer connection."
+      },
+      "government": {
+        "title": "Government Programs",
+        "desc": "Explore benefits, subsidies, and official resources available to you."
+      },
+      "legal": {
+        "title": "Legal Rights",
+        "desc": "Understand your rights and get legal help when needed."
+      },
+      "emergency": {
+        "title": "Emergency Services",
+        "desc": "Quick access to emergency contacts, response teams, and crisis help."
+      }
+    },
+    "help": {
+      "find": {
+        "title": "Find Resources",
+        "desc": "Discover accessible services and support in your area."
+      },
+      "connect": {
+        "title": "Connect",
+        "desc": "Join a supportive community of peers and professionals."
+      },
+      "learn": {
+        "title": "Learn",
+        "desc": "Access educational materials and training programs."
+      }
+    }
+  }
+  
